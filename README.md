@@ -46,4 +46,4 @@ Analisis menunjukkan bahwa masyarakat Indonesia cenderung memiliki sentimen nega
 
 - Menggunakan dataset yang lebih seimbang antar label sentimen
 - Menguji varian lain dari IndoBERT seperti IndoBERT-Lite atau IndoBERT-Large
-- Meningkatkan jumlah epoch dan teknik regularisasi
+- Meningkatkan jumlah _epoch_ dan teknik regularisasi
